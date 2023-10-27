@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f8a6545c-2e12-4d69-aca7-eb29678d6bcb/resourceGroups/appservice-github-actions/providers/Microsoft.Web/sites/dotnet-profiler",
+    "appService.deploySubpath": "."
+}
